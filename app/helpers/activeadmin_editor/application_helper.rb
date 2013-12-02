@@ -1,4 +1,4 @@
-module ActiveadminEditor
+module ActiveAdminEditor
   module ApplicationHelper
   end
 end

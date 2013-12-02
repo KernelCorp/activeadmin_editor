@@ -1,5 +1,5 @@
-module ActiveadminEditor
+module ActiveAdminEditor
   class Engine < ::Rails::Engine
-    isolate_namespace ActiveadminEditor
+    isolate_namespace ActiveAdminEditor
   end
 end

@@ -6,7 +6,7 @@ require "activeadmin_editor/version"
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "activeadmin_editor"
-  s.version     = ActiveadminEditor::VERSION
+  s.version     = ActiveAdminEditor::VERSION
   s.authors     = ["TODO: Your name"]
   s.email       = ["TODO: Your email"]
   s.homepage    = "TODO"

@@ -1,4 +1,4 @@
-module ActiveadminEditor
+module ActiveAdminEditor
   class ApplicationController < ActionController::Base
   end
 end

@@ -1,2 +1,2 @@
-ActiveadminEditor::Engine.routes.draw do
+ActiveAdminEditor::Engine.routes.draw do
 end
