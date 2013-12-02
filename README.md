@@ -1,0 +1,2 @@
+activeadmin_editor
+==================
